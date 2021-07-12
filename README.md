@@ -17,4 +17,4 @@
 4. Criticism
 5. Success of others
 
-[visit google](https//www.google.com)
+[visit google](https//www.google.com/)
