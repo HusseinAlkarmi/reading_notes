@@ -2,6 +2,7 @@
 JavaScript is a programming language commonly used in web development. This means JavaScript functions can run after a webpage has loaded without communicating with the server. For example, a JavaScript function may check a web form before it is submitted to make sure all the required fields have been filled out also Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.
 
 ![JS](https://www.vitoshacademy.com/wp-content/uploads/2015/04/JS.png)
+
 [for more information](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
 
 

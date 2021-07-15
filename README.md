@@ -12,6 +12,9 @@
  |read2 | [link for read2](https://husseinalkarmi.github.io/reading_notes/read2)|
  |read3 | [link for read3](https://husseinalkarmi.github.io/reading_notes/read3)|
  |read4 | [link for read4](https://husseinalkarmi.github.io/reading_notes/read4)|
+ |read5 | [link for read5](https://husseinalkarmi.github.io/reading_notes/read5)|
+ |read6 | [link for read6](https://husseinalkarmi.github.io/reading_notes/read6)|
+ 
 
 
 
