@@ -3,7 +3,7 @@
 ### Who Am I?
 #### my name is Hussein Alkarmi im 22 years old and im a software engineer in LTUC also i will graduate soon after taking the code fellow course.
 
-## Table of content:
+## Table of content for 102 reading notes:
 
  |Topic | Link for it|
  |------------ | -------------|
@@ -17,6 +17,10 @@
  |read7 | [link for read7](https://husseinalkarmi.github.io/reading_notes/read7)|
  
 
+## Table of content for 201 reading notes:
 
+ |Topic | Link for it|
+ |------------ | -------------|
+ |read1 | [link for read1](https://husseinalkarmi.github.io/reading_notes/read01)|
 
 
