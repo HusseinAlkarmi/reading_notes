@@ -21,6 +21,6 @@
 
  |Topic | Link for it|
  |------------ | -------------|
- |read01 | [link for read01](https://husseinalkarmi.github.io/reading_notes/201Reading-notes/read01)|
+ |read01 | [link for read01](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read01)|
 
 
