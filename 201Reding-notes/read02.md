@@ -73,4 +73,42 @@ specifies Arial as the preferred typeface.
 + CSS rules usually appear in a separate document,
 although they may appear within an HTML page.
 
+# JavaScript
+
+![js](https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1521098155260-OD3QNLD1RK7DGPWMCUA6/js.jpg?format=2500w)
+
+
+## JavaScript statement
+
+1. Semicolons: Semicolons separate JavaScript statements.
+
+2. Code Blocks: JavaScript statements can be grouped together inside curly brackets. 
+
+3. White Space: Javascript ignores multiple white spaces. 
+
+4. Line Length and Line Breaks: 
+
+5. Keywords:
+
+## Comments
+
+![comments](https://miro.medium.com/max/1296/1*HAN9ZOvHxzWI1RZ16-vwBw.png)
+
+## variables and dataTypes
+![var](https://simplesnippets.tech/wp-content/uploads/2018/10/variables-and-datatypes-in-JavaScript-featured-image.jpg)
+
+## javascript EXPRESSIONS
+
+![js](https://img.brainkart.com/extra3/fUjodAU.jpg)
+
+## javascript Decisions and Loops
+
+ loops in JavaScript?
+
+Loops are used in JavaScript to perform repeated tasks based on a condition. Conditions typically return true or false when analysed. A loop will continue running until the defined condition returns false 
+
+![loop](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Loops-1200x720.jpg)
+
+for more information [click here](https://alqudscollege.sharepoint.com/sites/ASACStudents2-CodeFellows/Shared%20Documents/Code%20Fellows/Javascript_and_jquery_interactive_jon_du.pdf)
+
 
