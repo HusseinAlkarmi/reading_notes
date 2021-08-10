@@ -27,5 +27,7 @@
  |read04 | [link for read04](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read04)|
  |read05 | [link for read05](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read05)|
  |read06 | [link for read06](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read06)|
+ |read07 | [link for read07](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read07)|
+ |read08 | [link for read08](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read08)|
 
 

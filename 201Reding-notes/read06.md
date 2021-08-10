@@ -11,3 +11,17 @@ In JavaScript, an object is a standalone entity, with properties and type. Compa
 
 A Document object represents the HTML document that is displayed in that window. The Document object has various properties that refer to other objects which allow access to and modification of document content. The way a document content is accessed and modified is called the Document Object Model, or DOM.
 
+## why we use DOM?
+
+The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
+
+## Methods of document object:
+|Method | Description|
+ |------------ | -------------|
+ |getElementById() | returns the element having the given id value.|
+ |getElementsByName() |returns all the elements having the given name value. |
+ | getElementsByTagName()| returns all the elements having the given tag name.|
+|write("string")|writes the given string on the doucment.|
+|writeln("string")|writes the given string on the doucment with newline character at the end.|
+|getElementsByClassName()	|returns all the elements having the given class name.
+|
