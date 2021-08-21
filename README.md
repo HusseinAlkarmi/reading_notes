@@ -34,5 +34,6 @@
  |read11 | [link for read11](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read11)|
  |read12 | [link for read12](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read12)|
  |read13 | [link for read13](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read13)|
-
+|read14A | [link for read14A](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read14A)|
+|read14B | [link for read14B](https://husseinalkarmi.github.io/reading_notes/201Reding-notes/read14B)|
 
