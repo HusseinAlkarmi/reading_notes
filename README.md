@@ -42,6 +42,6 @@
 
  |Topic | Link for it|
  |------------ | -------------|
- |read01 | [link for read01](/home/hussein/reading_notes/301Reading-notes/read01.md)|
- |read02 | [link for read02](https://husseinalkarmi.github.io/reading_notes/301Reding-notes/read02)|
+ |read01 | [link for read01](https://husseinalkarmi.github.io/reading_notes/301Reading-notes/read01)|
+ |read02 | [link for read02](https://husseinalkarmi.github.io/reading_notes/301Reading-notes/read02)|
 
