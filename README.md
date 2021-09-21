@@ -49,4 +49,5 @@
  |read05 | [link for read05](https://husseinalkarmi.github.io/reading_notes/301Reading-notes/read05)|
  |read06 | [link for read06](https://husseinalkarmi.github.io/reading_notes/301Reading-notes/read06)|
  |read07 | [link for read07](https://husseinalkarmi.github.io/reading_notes/301Reading-notes/read07)|
+ |read08 | [link for read08](https://husseinalkarmi.github.io/reading_notes/301Reading-notes/read08)|
 
